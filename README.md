@@ -1,5 +1,6 @@
-Projeto de Classificação com Random Forest
-Descrição
+*Projeto de Classificação com Random Forest*
+*Descrição*
+
 Este projeto consiste na construção de um modelo de classificação utilizando Random Forest, juntamente com a análise estatística das variáveis numéricas e categóricas do dataset. O objetivo é criar um modelo robusto de classificação e gerar tabelas descritivas que forneçam insights detalhados sobre os dados.
 
 Estrutura do Projeto
